@@ -1,39 +1,39 @@
-##Anime School Presentation
+# Anime School Presentation
 
 This presentation was made for my english class project about anime.
 
-###The presentation
-`presentation.odp` and `script.odt` are the main presentation files.<br>
-`presentation.odp` is the presentation containing basic section titles and background images to represent the titles.<br>
-`script.odt` is the script where the one who presents follows script rules where talks about the presentation section and interracts.<br><br>
+### The presentation
+`presentation.odp` and `script.odt` are the main presentation files.
+`presentation.odp` is the presentation containing basic section titles and background images to represent the titles.
+`script.odt` is the script where the one who presents follows script rules where talks about the presentation section and interracts.
 
-The presentation and script files(including `censored.odt` as well) were written in the Open Document format, which can be opened with Open Document document editors like LibreOffice or OpenOffice. You can legally convert these to MS Office formats or other closed source Document Formats, **but for god's love DON'T do it please!**<br><br>
+The presentation and script files(including `censored.odt` as well) were written in the Open Document format, which can be opened with Open Document document editors like LibreOffice or OpenOffice. You can legally convert these to MS Office formats or other closed source Document Formats, **but for god's love DON'T do it please!**
 
-`aniplay.sh` is a BASH script which purpose is to play in `mpv` as fullscreen mode https://youtu.be/mco3UX9SqDA - `【初音ミク】ぽっぴっぽー - Po pi po ~ Miku Hatsune Vegetable Juice Dance`.<br>
+`aniplay.sh` is a BASH script which purpose is to play in `mpv` as fullscreen mode https://youtu.be/mco3UX9SqDA - `【初音ミク】ぽっぴっぽー - Po pi po ~ Miku Hatsune Vegetable Juice Dance`.
 
-###License
-Everything made by me is licensed under Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) Creative Commons license.<br><br>
+### License
+Everything made by me is licensed under Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) Creative Commons license.
 
-**Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.<br><br>
+**Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
-**NonCommercial** — You may not use the material for commercial purposes.<br><br>
+**NonCommercial** — You may not use the material for commercial purposes.
 
-**ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.<br><br>
+**ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-**No additional** restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.<br><br><br>
+**No additional** restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 
 **Notices:**
 
 You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.<br><br>
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
-See https://creativecommons.org/licenses/by-nc-sa/4.0/ for more information.<br><br>
+See https://creativecommons.org/licenses/by-nc-sa/4.0/ for more information.
 
 *TL;DR: Please give credits(a link to this github repo is fine), do not commercialize and use the same license if you modify.*
 
-###A list of all resources used
-Note! All the resources NOT noted as "made by me" ore derivates of the quoted words are not made by me, not mine and may be or not copyrighted resources. However I listed all the credits, except for exceptional resources where the original URLs/credits were lost. Some resources are modified(added text, inverted, cropped, etc.)<br><br>
+### A list of all resources used
+Note! All the resources NOT noted as "made by me" ore derivates of the quoted words are not made by me, not mine and may be or not copyrighted resources. However I listed all the credits, except for exceptional resources where the original URLs/credits were lost. Some resources are modified(added text, inverted, cropped, etc.)
 
 1.png - https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F2584837.png&f=1&nofb=1 - https://wallpaperaccess.com/full/2584837.png<br>
 2.jpg - https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpm1.narvii.com%2F6173%2F00a7876c795a8d1b608624d638c852b40ce136c6_hq.jpg&f=1&nofb=1 - https://pm1.narvii.com/6173/00a7876c795a8d1b608624d638c852b40ce136c6_hq.jpg<br>
